@@ -5,15 +5,17 @@
 ## Скриншоты
 
 ### Список DAG'ов
-![DAG list](screenshots/1_<img width="1470" height="956" alt="1_dags_list" src="https://github.com/user-attachments/assets/045ecedf-e9ec-4df0-90d1-4ed420eae123" />
-dags_list.png)
+<img width="1470" height="956" alt="1_dags_list" src="https://github.com/user-attachments/assets/9a94b081-e8ef-4e0f-8fa6-14385998c2a6" />
+
 
 ### Graph View
-![Graph View](screenshots/2_graph_view.png)<img width="1470" height="956" alt="2_graph_view" src="https://github.com/user-attachments/assets/f47b7b81-dc52-422b-a9fe-b739a10df3ea" />
+<img width="1470" height="956" alt="2_graph_view" src="https://github.com/user-attachments/assets/31e55bab-4adc-41d8-8050-53de70de8397" />
+
 
 
 ### Отчет
-![Report](screenshots/3_report.png)<img width="1470" height="956" alt="3_report" src="https://github.com/user-attachments/assets/56f11a04-c988-4eed-9465-3b5cf664ec92" />
+
+<img width="1470" height="956" alt="3_report" src="https://github.com/user-attachments/assets/fa873bf3-dec1-45e5-ab0f-747433040ea9" />
 
 
 ## Результат
