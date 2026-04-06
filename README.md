@@ -21,13 +21,16 @@
 ## Скриншоты
 
 ### 1. Список DAG'ов в Airflow
-![Список DAG'ов](screenshots/1_dags_list.png)
+<img width="1470" height="956" alt="1_dags_list" src="https://github.com/user-attachments/assets/da2a2e93-3abc-4dd5-afe8-9df189b13a99" />
+
 
 ### 2. Graph View (успешное выполнение задач)
-![Graph View](screenshots/2_graph_view.png)
+<img width="1470" height="956" alt="2_graph_view" src="https://github.com/user-attachments/assets/4c254b80-8366-4b64-8798-2a800bad5ccd" />
+
 
 ### 3. Отчет о кассовых сборах
-![Отчет](screenshots/3_report.png)
+<img width="1470" height="956" alt="3_report" src="https://github.com/user-attachments/assets/9824fd8c-827a-4cd6-a20c-0cc02c45baf0" />
+
 
 ---
 
